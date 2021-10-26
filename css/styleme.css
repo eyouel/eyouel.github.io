@@ -1,0 +1,29 @@
+body{
+    background-color: #57554e;
+    color:#ffffff;
+}
+h1,h2,h3{
+    color: #9bc6f4;
+}
+.header-container {
+  margin: 60px 0px 0px 0px;
+  background-color: #57554e;
+  padding: 0 20px 20px;
+  text-align: center;
+  color: #ffffff;
+}
+li a:link{
+  color: #b03c3c;
+}
+li a:visited{
+    color: #c43636;
+  }
+p strong{
+    color: #e9e98e;
+}
+dl {
+  margin-top: 0px;
+}
+dt {
+ color: #e9e98e;
+}
